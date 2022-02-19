@@ -3,7 +3,6 @@
 
 - 🔭 My top 3 tools right now are C#, Typescript and React
 - ⭐ I'm mostly proud of <a href="https://github.com/Shady6/SkateSpot_v2">SkateSpot_v2</a>
-- 🌱 I’m currently exploring the world of Game Development
 - 📫 Reach me at mikolaj.mikolaj@gmail.com or here <a href="https://www.linkedin.com/in/miko%C5%82aj-piekutowski-b626851b5/" target="blank"><img align="center" src="https://content.linkedin.com/content/dam/me/brand/en-us/brand-home/logos/In-Blue-Logo.png.original.png" alt="mikopar" height="20" width="20" /></a>
 
 <h3 align="left">Languages and Tools:</h3>
