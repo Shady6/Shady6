@@ -1,4 +1,4 @@
-<h1>Hi There 👋</h1>
+<!-- <h1>Hi There 👋</h1>
 <h3>A Full Stack Developer at ITMAGINATION</h3>
 
 - 🔭 My top 3 tools right now are C#, Typescript and React
@@ -31,4 +31,4 @@
             alt="Docker" width="40" height="40" /> </a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Shady6&show_icons=true&theme=highcontrast&locale=en" alt="Shady6 GitHub stats" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Shady6&show_icons=true&theme=highcontrast&locale=en" alt="Shady6 GitHub stats" /></p> -->
